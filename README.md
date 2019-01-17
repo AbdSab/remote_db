@@ -1,2 +1,2 @@
-# remote_db
+# Remote Database
 Use free hosting's database remotely
